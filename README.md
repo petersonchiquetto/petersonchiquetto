@@ -2,7 +2,7 @@
 ## Hi! I'm Peter Chiquetto 🖖🏻🤖🧠
 
 - 🔭 I’m currently working on Machine Learning Engineer.
-- 🌱 I’m currently learning MLOps. 
+- 🌱 I’m currently learning Platform engineering 🏗️ and MLOps 🧠 
 - 😄 Pronouns: He/His. 
 
  <div>
