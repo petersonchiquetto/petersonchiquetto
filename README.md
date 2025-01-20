@@ -1,8 +1,8 @@
 
 ## Hi! I'm Peter Chiquetto 🖖🏻🤖🧠
 
-- 🔭 I’m currently working on Machine Learning Engineer.
-- 🌱 I’m currently learning Platform Engineering 🏗️ and MLOps 🧠 
+- 🔭 I’m currently working on Full Stack Development 🧑🏻‍💻 and Machine Learning Engineer 💻
+- 🌱 I’m currently learning Platform Engineering 🏗️ and MLOps 🧠
 - 😄 Pronouns: He/His. 
 
  <div>
