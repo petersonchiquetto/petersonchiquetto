@@ -1,7 +1,7 @@
 ## Hi! I'm Peter Chiquetto 🖖🏻🤖🧠
 
 - 🔭 I’m currently working on IA Engineering 🧑🏻‍💻, Machine Learning Engineer 💻 and Professor of AI Development 📚.
-- 🌱 I’m currently learning Platform Engineering 🏗️, Data Science and Analytics 🧠
+- 🌱 I’m currently learning Platform Engineering 🏗️, Data Science & Analytics 🧠
 - 😄 Pronouns: He/His.
 
 <br>
